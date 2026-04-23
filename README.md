@@ -19,7 +19,6 @@ Passionate about CSS animations, glassmorphism & neon effects
 -   [Aurora Glass Cards UI](https://github.com/aseya1122/aurora-glass-cards-ui)
 -   [Interactive Neon Button](https://github.com/aseya1122/interactive-neon-button)
 -   [Smooth Cursor Animation](https://github.com/aseya1122/smooth-cursor-animation)
--   [Animated Slider](https://github.com/aseya1122/animated-slider)
 ---
 
 ##  Currently Learning
