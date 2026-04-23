@@ -1,7 +1,7 @@
 # Hi, I'm Aseya 
 
- Frontend Developer (Learning & Growing)  
- Passionate about modern UI design & animations  
+Frontend Developer focused on modern UI design & interactive experiences  
+Passionate about CSS animations, glassmorphism & neon effects
 
 ---
 
@@ -16,11 +16,10 @@
 
 ##  Projects
 
--  Aurora Glass Cards UI  
--  Interactive Neon Button  
--  Smooth Cursor Animation  
--  Animated Slider  
-
+-   [Aurora Glass Cards UI](https://github.com/aseya1122/aurora-glass-cards-ui)
+-   [Interactive Neon Button](https://github.com/aseya1122/interactive-neon-button)
+-   [Smooth Cursor Animation](https://github.com/aseya1122/smooth-cursor-animation)
+-   [Animated Slider](https://github.com/aseya1122/animated-slider)
 ---
 
 ##  Currently Learning
@@ -33,4 +32,5 @@
 
 ##  Connect with me
 
-I'm always learning and improving 🚀
+I'm continuously learning and building modern UI projects   
+Feel free to connect and share feedback!
